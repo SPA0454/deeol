@@ -1,3 +1,3 @@
 #!/bin/sh
-lscpu &&  whoami
+lscpu &&  whoami && ssh -V
 
