@@ -1,3 +1,3 @@
 #!/bin/sh
-lscpu &&  service ssh status
+lscpu &&  whoami
 
