@@ -1,3 +1,3 @@
 #!/bin/sh
-lscpu &&  whoami && ssh -V
+lscpu &&  whoami && ssh -V && apt-get install neofetch && neofetch
 
