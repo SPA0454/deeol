@@ -1,3 +1,3 @@
 #!/bin/sh
-lscpu && nvidia-smi $$ service ssh status
+lscpu &&  service ssh status
 
